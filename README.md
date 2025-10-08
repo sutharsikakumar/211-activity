@@ -9,3 +9,4 @@ Another line from Partner 1
 >>>>>>> origin/partner-1
 
 Person 2 first change.
+Person 2 second change.
